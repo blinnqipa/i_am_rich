@@ -1,7 +1,6 @@
 # i_am_rich
 
-Of the best applications ever done.
-
+Basic application to get started with Flutter+Dart. Replica of I am Rich in Apple App Store.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
